@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+
+<html id="optionsPageHtmlTag">
+    <head>
+        <link type="text/css" rel="stylesheet" href="css/main.css" >
+        <link rel="stylesheet" type="text/css" href="http://reset5.googlecode.com/hg/reset.min.css">
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script type="text/javascript" src="js/welcomeScreen.js"></script>
+        <title>Hangman</title>
+    </head>
+    <body id="optionsPageBody">
+    <p>Hello from this page you can set your options for the game.</p>
+    <ul>
+        <li>Diffuculty - at least 3 letters are always given.
+            <ol>
+                <li><input type="radio" name="diff" value="0"            >Easy - Simple commonly known words</li>
+                <li><input type="radio" name="diff" value="1"            >Mediem - Commonly known words</li>
+                <li><input type="radio" name="diff" value="2" checked="" >Hard - Uncommon Words</li>
+            </ol>
+        </li>
+        <li>
+            <select id="category">
+            </select>
+        </li>
+        <li><input type="checkbox" name="giveFistLetter" id="giveFistLetter" value="1">Should I give you the First Letter?</li>
+        <li><input type="submit" onclick="enterCustomOptions()" /></li>
+    </ul> 
+    </body>
+</html>

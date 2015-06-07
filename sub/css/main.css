@@ -1,0 +1,29 @@
+#hangman{
+    float:left;
+    width: 600px;
+    height:700px;
+}
+
+#enterText{
+    clear:both;
+   display:block;
+}
+
+#trickForKindle{
+    clear:both;
+   display:block;
+}
+
+#optionsPageHtmlTag{
+background: #3c0404;
+color: white;
+}
+
+#customWordPageHtmlTag  {
+background: #3c0404;
+color: white;
+}
+
+.hideImage{
+    display: none;
+}

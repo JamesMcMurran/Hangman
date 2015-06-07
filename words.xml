@@ -1,0 +1,103 @@
+<?xml version="1.0" ?> 
+<wordList>
+    <Difficulty dif="1" lang="english">
+        <category cat="Animals">
+	   		<word>Cat</word>
+	   		<word>Dog</word>
+	   		<word>Snake</word>
+	   		<word>Bear</word>
+	   		<word>Bat</word>
+	   		<word>Bee</word>
+	   		<word>Deer</word>
+	   		<word>Duck</word>
+	   		<word>Dove</word>
+	   		<word>Ape</word>
+	   		<word>Boar</word>
+		</category >
+		<category cat="Food">
+	   		<word>Fish</word>
+	   		<word>Lemon</word>
+	   		<word>Meat</word>
+	   		<word>Bread</word>
+	   		<word>Rice</word>
+	   		<word>Corn</word>
+	   		<word>Beef</word>
+	   		<word>Cheese</word>
+	   		<word>Pie</word>
+	   		<word>Chips</word>
+		</category >
+    </Difficulty >
+    <Difficulty dif="2" lang="english">
+        <category cat="Animals">
+	   		<word>Elephant</word>
+	   		<word>Falcon</word>
+	   		<word>Ferret</word>
+	   		<word>Finch</word>
+	   		<word>Dragonfly</word>
+	   		<word>Dolphin</word>
+	   		<word>Butterfly</word>
+	   		<word>Cattle</word>
+	   		<word>Dragon</word>
+		</category >
+		<category cat="Food">
+	   		<word>Potatoes</word>
+	   		<word>Biscuit</word>
+	   		<word>Hamburger</word>
+	   		<word>Meatloaf</word>
+	   		<word>Wheat</word>
+	   		<word>Noodles</word>
+	   		<word>Spaghetti</word>
+	   		<word>Macaroni</word>
+	   		<word>Chicken</word>
+		</category >
+    </Difficulty >
+    <Difficulty dif="3" lang="english">
+        <category cat="Animals">
+	   		<word>Dinosaur</word>
+	   		<word>Crocodile</word>
+	   		<word>Cockroach</word>
+	   		<word>Chimpanzee</word>
+	   		<word>Caterpillar</word>
+	   		<word>Armadillo</word>
+	   		<word>Antelope</word>
+	   		<word>Barracuda</word>
+	   		<word>Baboon</word>
+	   		<word>Albatross</word>
+	   		<word>Alligator</word>
+	   		<word>Anteater</word>
+	   		<word>Buffalo</word>
+	   		<word>Cheetah</word>
+	   		<word>Chinchilla</word>
+	   		<word>Chough</word>
+	   		<word>Coyote</word>
+	   		<word>Dotterel</word>
+	   		<word>Echidna</word>
+	   		<word>Flamingo</word>
+	   		<word>Gazelle</word>
+	   		<word>Goldfinch</word>
+	   		<word>Goshawk</word>
+	   		<word>Guanaco</word>
+	   		<word>Guillemot</word>
+	   		<word>Hippopotamus</word>
+	   		<word>Kangaroo</word>
+	   		<word>Jaguar</word>
+	   		<word>Kouprey</word>
+	   		<word>Mosquito</word>
+	   		<word>Pheasant</word>
+	   		<word>Rhinoceros</word>
+	   		<word>Salamander</word>
+	   		<word>Wolverine</word>
+		</category >
+		<category cat="Food">
+	   		<word>Maize</word>
+	   		<word>Congee</word>
+	   		<word>Donburi</word>
+	   		<word>Sushi</word>
+	   		<word>Nimono</word>
+	   		<word>Itamemono</word>
+	   		<word>Sashimi</word>
+	   		<word>Hiyayakko</word>
+	   		<word>Chinmi</word>
+		</category >
+    </Difficulty >
+</wordList>

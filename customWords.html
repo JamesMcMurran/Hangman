@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+
+<html id="customWordPageHtmlTag">
+    <head>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script type="text/javascript" src="js/welcomeScreen.js"></script>
+        <link type="text/css" rel="stylesheet" href="css/main.css" >
+        <link rel="stylesheet" type="text/css" href="http://reset5.googlecode.com/hg/reset.min.css">
+        <title>Hangman</title>
+    </head>
+    <body id="customWordsPageBodyTag">
+    <p> You can enter your custom words here.</p>
+    <p>Separate each with a , (i.e House,Fish,Bird) only single words are allowed (i.e. "dog" not "House salad")
+     Capital letters are counted as if it gave you two letters. Becuse the first letter helps more than any other letter. 
+     It will atempt to only give you 3 letters(or one capital and one other letter).</p> 
+     <br />
+     <textarea rows="10" cols="50" id='enterTextHere'> </textarea>
+     <br />
+     <input type="submit" onclick="enterCustomWords()" />
+      
+    </body>
+</html>
